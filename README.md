@@ -11,13 +11,14 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
 
 
 
-**Talking about Personal Stuffs: 
+Talking about Personal Stuffs: 
 - 📫 How to reach me: theashknight16@gmail.com                        |
 - 😄 Pronouns: SHE/HER                                                |
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SurajSinghChauhan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight"/>      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnshuxxKnight&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshxxKnight&hide=php&theme=tokyonight"/>
 
 
 
