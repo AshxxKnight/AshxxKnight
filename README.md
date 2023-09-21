@@ -17,7 +17,7 @@ Talking about Personal Stuffs:
 
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnshuxxKnight&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=AshxxKnight&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&theme=tokyonight"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshxxKnight&hide=php&theme=tokyonight"/>
 
 
