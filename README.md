@@ -1,7 +1,7 @@
 ___________________________________
-### Hi there, I'm Anshu SAxena</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Anshu Saxena</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]()
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-saxena-4359101aa/)
 
 ### Glad to see you here!
 
@@ -17,7 +17,7 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
 - 👯 I’m looking to collaborate on Youtube                            |
 - 🤔 I’m looking for help with ML Projects                            |
 - 💬 Ask me about CP                                                  |  
-- 📫 How to reach me: surajkrsingh825@gmail.com                       |
+- 📫 How to reach me: theashknight16@gmail.com                        |
 - 😄 Pronouns: HE/HIS                                                 |
 - ⚡ Fun fact: ...                                                    |
 --> 
