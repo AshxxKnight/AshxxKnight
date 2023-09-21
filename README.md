@@ -11,15 +11,9 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
 
 
 
-**Talking about Personal Stuffs:**
-- 🔭 I’m currently Studying                                           |                                     
-- 🌱 I’m currently Persuing Btech                                     |
-- 👯 I’m looking to collaborate on Youtube                            |
-- 🤔 I’m looking for help with ML Projects                            |
-- 💬 Ask me about CP                                                  |  
+**Talking about Personal Stuffs: 
 - 📫 How to reach me: theashknight16@gmail.com                        |
-- 😄 Pronouns: HE/HIS                                                 |
-- ⚡ Fun fact: ...                                                    |
+- 😄 Pronouns: SHE/HER                                                |
 --> 
 
 </br>
@@ -29,7 +23,7 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
 
 
 ## ✉️ Find me on:
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-saxena-4359101aa/)
 
 <p align="center">
  <a href="" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
