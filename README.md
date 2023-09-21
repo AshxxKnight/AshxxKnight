@@ -14,7 +14,6 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
 **Talking about Personal Stuffs: 
 - 📫 How to reach me: theashknight16@gmail.com                        |
 - 😄 Pronouns: SHE/HER                                                |
---> 
 
 </br>
 
@@ -23,7 +22,7 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
 
 
 ## ✉️ Find me on:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-saxena-4359101aa/)
+[![Linkedin Logo](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-saxena-4359101aa/)
 
 <br />
 
@@ -35,6 +34,7 @@ As a developer, I'm passionate about continually enhancing my skills to a high d
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" alt="Node" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
